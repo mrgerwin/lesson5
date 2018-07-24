@@ -23,14 +23,14 @@ Overview:  The program will first ask the user for a number between 1 and 100.  
 
 Think about how you could use a while loop to run the program multiple times if the user wants to play again.  If you have time, change the program.  Peer review someone else’s project.
 
-* Debug
-See if these scenarios are handled correctly
-The user’s secret number is lower than 0
-The user’s secret number is above 100
-The user’s secret number is 100
-The user’s secret number is 1
-The user’s secret number is a random odd number above 50 but below 100
-The user’s secret number is a random odd number below 50 but above 1
-Anything else you can think of.
+### Debug
+#### See if these scenarios are handled correctly
+* The user’s secret number is lower than 0
+* The user’s secret number is above 100
+* The user’s secret number is 100
+* The user’s secret number is 1
+* The user’s secret number is a random odd number above 50 but below 100
+* The user’s secret number is a random odd number below 50 but above 1
+* Anything else you can think of.
 
 I understand that there are multiple ways to write this program.  I purposely used steps that would expose your understanding of functions, while loops, and if statements.  You might find a more concise way that is also correct in addressing the program.
